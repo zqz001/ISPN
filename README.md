@@ -1,7 +1,7 @@
-# ISPN
+# SIPN
 
 
-Interactive Self-Supervised Pansharpening Network Guided by Joint Satellite Datasets and Intermediate Loss
+Self-Supervised Interactive Pansharpening Network with Intermediate Loss and Multi-Satellite Joint Training
 
  
 ﻿Paper Status: Under submission. Code will be released upon paper acceptance.
